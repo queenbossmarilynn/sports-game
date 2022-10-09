@@ -21,4 +21,6 @@ code {
   font-family: 'Arial Narrow Bold';
   margin: 30px;
   padding: 50px;
+  justify-content: center;
+  align-items: center;
 }
